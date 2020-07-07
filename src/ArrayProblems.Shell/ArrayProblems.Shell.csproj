@@ -8,5 +8,4 @@
   <ItemGroup>
     <ProjectReference Include="..\ArrayProblems\ArrayProblems.csproj" />
   </ItemGroup>
-
 </Project>
