@@ -1,4 +1,8 @@
-﻿using System;
+﻿using ArrayProblems.RunningMedian;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace ArrayProblems.Shell
 {
@@ -6,7 +10,6 @@ namespace ArrayProblems.Shell
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
