@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ArrayProblems.Shell
 {
@@ -6,7 +6,6 @@ namespace ArrayProblems.Shell
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
