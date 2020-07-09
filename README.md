@@ -5,3 +5,5 @@
 * [Find running median for stream of integers using heaps](src/ArrayProblems/RunningMedian/Heaps)
 * [Check if array has duplicate integers(Bitwise operations)](./src/ArrayProblems/FindIfArrayHasDuplicteNumbers)
 * [Find list of duplicate integers in integer array](./src/ArrayProblems/FindDuplicateNumbersInArray)
+* [Next lexicographical permutation algorithm](./src/ArrayProblems/NextLexicographicalPermutation)
+* [Longest increasing sub-array](./src/ArrayProblems/LongestIncreasingSubArray)
