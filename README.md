@@ -7,3 +7,4 @@
 * [Find list of duplicate integers in integer array](./src/ArrayProblems/FindDuplicateNumbersInArray)
 * [Next lexicographical permutation algorithm](./src/ArrayProblems/NextLexicographicalPermutation)
 * [Longest increasing sub-array](./src/ArrayProblems/LongestIncreasingSubArray)
+* [Sub array with zero sum](./src/ArrayProblems/SubArrayWithSumZero)
