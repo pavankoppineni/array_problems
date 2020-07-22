@@ -8,3 +8,5 @@
 * [Next lexicographical permutation algorithm](./src/ArrayProblems/NextLexicographicalPermutation)
 * [Longest increasing sub-array](./src/ArrayProblems/LongestIncreasingSubArray)
 * [Sub array with zero sum](./src/ArrayProblems/SubArrayWithSumZero)
+* [Majority element](./src/ArrayProblems/FindMajorityElement)
+* [Kth smallest element from array](./src/ArrayProblems/KthSmallestElementInUnsortedArray)
