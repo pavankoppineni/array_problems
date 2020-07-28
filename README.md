@@ -10,3 +10,4 @@
 * [Sub array with zero sum](./src/ArrayProblems/SubArrayWithSumZero)
 * [Majority element](./src/ArrayProblems/FindMajorityElement)
 * [Kth smallest element from array](./src/ArrayProblems/KthSmallestElementInUnsortedArray)
+* [Product of all sub arrays](./src/ArrayProblems/ProductOfAllSubArrays)
