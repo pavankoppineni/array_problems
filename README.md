@@ -11,3 +11,4 @@
 * [Majority element](./src/ArrayProblems/FindMajorityElement)
 * [Kth smallest element from array](./src/ArrayProblems/KthSmallestElementInUnsortedArray)
 * [Product of all sub arrays](./src/ArrayProblems/ProductOfAllSubArrays)
+* [Fing missing number in a sorted array with limited range](./src/ArrayProblems/FindMissingNumberInSortedArrayOfLimitedRange)
