@@ -8,7 +8,6 @@ namespace ArrayProblems.Shell
     {
         public static void Main()
         {
-            
         }
     }
 }
