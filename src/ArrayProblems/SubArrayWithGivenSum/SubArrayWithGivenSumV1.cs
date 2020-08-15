@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -9,9 +9,29 @@ namespace ArrayProblems.SubArrayWithGivenSum
     /// </summary>
     public class SubArrayWithGivenSumV1
     {
-        public void Find(int[] values, int sum)
+        public (int startIndex, int endIndex) Find(int[] values, int sum)
         {
-            throw new NotImplementedException();
+            var i = 0;
+            var currentSum = values[0];
+            for (var j = 1; j < values.Length; j++)
+            {
+                currentSum += values[j];
+
+                if (currentSum > sum)
+                {
+                    while (currentSum > sum)
+                    {
+                        currentSum -= values[i];
+                        i++;
+                    }
+                }
+
+                if (currentSum == sum)
+                {
+                    return (i, j);
+                }
+            }
+            return (-1, -1);
         }
     }
 }
