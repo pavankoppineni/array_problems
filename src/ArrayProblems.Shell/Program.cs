@@ -1,11 +1,14 @@
+using ArrayProblems.ProductOfAllSubArrays;
 using System;
+using System.Collections.Generic;
 
 namespace ArrayProblems.Shell
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            
         }
     }
 }
