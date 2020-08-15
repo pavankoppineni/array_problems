@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -31,7 +31,6 @@ namespace ArrayProblems.SubArrayWithGivenSum
                     return (i, j);
                 }
             }
-
             return (-1, -1);
         }
     }

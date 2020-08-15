@@ -1,4 +1,4 @@
-﻿using ArrayProblems.SubArrayWithGivenSum;
+using ArrayProblems.SubArrayWithGivenSum;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
