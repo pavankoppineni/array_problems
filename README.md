@@ -13,3 +13,4 @@
 * [Product of all sub arrays](./src/ArrayProblems/ProductOfAllSubArrays)
 * [Fing missing number in a sorted array with limited range](./src/ArrayProblems/FindMissingNumberInSortedArrayOfLimitedRange)
 * [Maximum sum such that no two elements are adjacent](./src/ArrayProblems/MaximumSumSuchThatNoTwoElementsAreAdjacent)
+* [Smallest sub array with atleast one duplicate](./src/ArrayProblems/SmallestSubArrayWithAtleastOneDuplicate)
