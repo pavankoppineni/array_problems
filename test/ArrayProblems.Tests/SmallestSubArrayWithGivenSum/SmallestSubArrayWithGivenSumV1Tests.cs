@@ -16,7 +16,7 @@ namespace ArrayProblems.Tests.SmallestSubArrayWithGivenSum
             var values = new int[] { 2, 3, 1, 2, 4, 3 };
             var sum = 7;
             var problem = new SmallestSubArrayWithGivenSumV1();
-            var expectedResult = 3;
+            var expectedResult = 2;
 
             // When
             var actualResult = problem.Find(values, sum);
