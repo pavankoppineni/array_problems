@@ -15,3 +15,4 @@
 * [Maximum sum such that no two elements are adjacent](./src/ArrayProblems/MaximumSumSuchThatNoTwoElementsAreAdjacent)
 * [Smallest sub array with atleast one duplicate](./src/ArrayProblems/SmallestSubArrayWithAtleastOneDuplicate)
 * [Sort array based on absolute values](./src/ArrayProblems/SortArrayBasedOnAbsoluteValues)
+* [Smallest sub array with sum greater than given number](./src/ArrayProblems/SmallestSubArrayWithGivenSum)
