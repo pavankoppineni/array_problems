@@ -16,3 +16,4 @@
 * [Smallest sub array with atleast one duplicate](./src/ArrayProblems/SmallestSubArrayWithAtleastOneDuplicate)
 * [Sort array based on absolute values](./src/ArrayProblems/SortArrayBasedOnAbsoluteValues)
 * [Smallest sub array with sum greater than given number](./src/ArrayProblems/SmallestSubArrayWithGivenSum)
+* [Number of sub arrays with given sum](./src/ArrayProblems/SubArrayWithGivenSum/SubArrayWithGivenSumIncludesNegativeNumbersV1.cs)
