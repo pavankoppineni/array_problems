@@ -1,4 +1,3 @@
-using ArrayProblems.ProductOfAllSubArrays;
 using System;
 using System.Collections.Generic;
 
