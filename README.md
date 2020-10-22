@@ -19,3 +19,5 @@
 * [Number of sub arrays with given sum](./src/ArrayProblems/SubArrayWithGivenSum/SubArrayWithGivenSumIncludesNegativeNumbersV1.cs)
 * [Number of sub arrays with product less than K](./src/ArrayProblems/SubArrayWithProductLessThanK)
 * [Combination Sum II(Leetcode 39)](./src/ArrayProblems/NumberOfUniqueCombinationsEqualToGivenSum)
+* [Pair with maximum XOR value](./src/ArrayProblems/MaximumXOROfTwoNumbersInAnArray)
+* [Count number of pairs with sum less than K](./src/ArrayProblems/CountPairsWithSumLessThanK)
